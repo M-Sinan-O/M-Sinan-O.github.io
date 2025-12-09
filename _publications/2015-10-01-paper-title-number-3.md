@@ -1,5 +1,5 @@
 ---
-title: "Automated Separation of Caries Requiring Filling and Caries Requiring Root Canal from Full Dose and Low Dose Bitewing Images Using Machine Learning"
+title: "Title-3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
