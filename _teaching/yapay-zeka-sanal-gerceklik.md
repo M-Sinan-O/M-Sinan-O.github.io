@@ -1,4 +1,4 @@
----
+<!--
 title: "Yapay Zeka ve Sanal Gerceklik"
 collection: teaching
 type: "Undergraduate course"
@@ -13,3 +13,4 @@ location: "Ankara, Turkey"
 
 ## Lecture Notes
 * [DERS DOSYALARI](https://github.com/M-Sinan-O/DERS-DOSYALARI/tree/main/YAPAY%20ZEKA%20VE%20SANAL%20GER%C3%87EKL%C4%B0K)
+-->
