@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical&Electronic Engineering, TOBB Economics&Technology University, 2024 (expected)
+* Ph.D in Electrical&Electronic Engineering, TOBB Economics&Technology University, 2026
 * M.S. in Electrical&Electronic Engineering, University of Turkish Aeronautical Association, 2018
 * B.S. in Electrical&Electronic Engineering, Firat University, 2014
 
