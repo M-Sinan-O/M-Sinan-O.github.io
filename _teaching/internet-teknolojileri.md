@@ -1,4 +1,4 @@
----
+<!--
 title: "Internet Teknolojileri"
 collection: teaching
 type: "Undergraduate course"
@@ -13,3 +13,4 @@ location: "Ankara, Turkey"
 
 ## Lecture Notes
 * [DERS DOSYALARI](https://github.com/M-Sinan-O/DERS-DOSYALARI/tree/main/%C4%B0NTERNET%20TEKNOLOJ%C4%B0LER%C4%B0)
+-->
